@@ -1,2 +1,2 @@
-# ps-scripts
-Scripts written for Adobe Photoshop
+# Photoshop Scripts
+Scripts written for Adobe Photoshop to help make my life easier.
